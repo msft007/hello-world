@@ -1,3 +1,4 @@
 # hello-world
 
-I'm just trying out Github
+Hello Sugar Labs,
+I am Koh yt.
